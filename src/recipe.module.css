@@ -12,11 +12,13 @@
     font-size: 30px;
     color: orangered;
     margin: 0;
-    margin-bottom: 15px;
+    margin-top: 10px;
+    margin-bottom: 20px;
 }
 
 .list{
-
+    height: 300px;
+    overflow-y: scroll;
 }
 
 .listItem{
